@@ -12,11 +12,15 @@
 ### 프로그램 설명
 #### 1.초기 화면
 ![image](https://github.com/thsaudgh8/TM004/assets/165768655/79c6e241-fb4e-4830-8ba0-ede937ac1fe1)
+
+
 초기 화면입니다. 웹캠 촬영이 출력되는 부분 위에 호랑이일까? 사자일까? 라는 제목이 나오고 start 버튼과 stop버튼이 있습니다.
 초기 화면에서는 stop버튼이 비활성화 되어있는것을 볼 수 있습니다.
 
 #### 2. 실행 화면
 ![image](https://github.com/thsaudgh8/TM004/assets/165768655/9aab74df-dd87-4030-9706-6a2103be2e4c)
+
+
 start 버튼을 눌러 실행한 화면입니다. 화면에 호랑이가 잡히자 "이것은 호랑이입니다 어흥!" 이라는 텍스트 화면에 출력됩니다.
 반대로 사자가 화면에 잡히면 "이것은 사자입니다 어흥!"이라는 텍스트가 화면에 출력됩니다.
 ![image](https://github.com/thsaudgh8/TM004/assets/165768655/a4b7badd-dcaa-455d-81ec-5b882450887a)
@@ -24,7 +28,9 @@ start 버튼을 눌러 실행한 화면입니다. 화면에 호랑이가 잡히�
 
 
 ### 3. 정지 화면
-![image](https://github.com/thsaudgh8/TM004/assets/165768655/aef9b543-4138-4825-852c-0e3a7ae4bdb3)
+![image](https://github.com/thsaudgh8/TM004/assets/165768655/aef9b543-4138-4825-852c-0e3a7ae4bdb3)\
+
+
 stop 버튼을 눌러 정지한 화면입니다. 
 캠 화면을 움직여도 화면에는 반응이 없습니다. 
 
