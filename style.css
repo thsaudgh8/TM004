@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    margin-top: 20px;
+}
+
+#webcam-container {
+    margin-top: 20px;
+    width: 80%;
+    height: 80%;
+    max-width: 300px;
+    max-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+#label-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    font-weight: bold;
+    font-family: 'Chewy', cursive;
+    font-size: 24px; /* 원하는 크기로 조정 가능 */
+}
