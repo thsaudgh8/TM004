@@ -29,7 +29,7 @@ stop 버튼이 활성화 됩니다.
 
 
 ### 3. 정지 화면
-![image](https://github.com/thsaudgh8/TM004/assets/165768655/aef9b543-4138-4825-852c-0e3a7ae4bdb3)\
+![image](https://github.com/thsaudgh8/TM004/assets/165768655/aef9b543-4138-4825-852c-0e3a7ae4bdb3)
 
 stop 버튼을 눌러 정지한 화면입니다. 
 캠 화면을 움직여도 화면에는 반응이 없습니다. 
